@@ -46,8 +46,6 @@ exclude_patterns = []
 #
 html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
-    "collapse_navigation": True,
-    "navigation_depth": 2,
     "show_prev_next": False,
     "icon_links": [
         {"name": "SPEC", "url": "https://scientific-python.org/specs/spec-0003/", "icon": "fas fa-home"},
